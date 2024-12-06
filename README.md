@@ -43,7 +43,7 @@ Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that 
 
 ## Data Source 
 
-Data Collection
+#### Data Collection
 
 - This Data contains personal fitness tracker from thirty fitbit users.
 
@@ -51,7 +51,7 @@ Data Collection
 
 
 
-Data Storage
+#### Data Storage
 
 The data is sourced from Kaggle (CSV files), [see here to find it.]([https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download](https://www.kaggle.com/datasets/arashnic/fitbit))
 
@@ -104,7 +104,7 @@ The data is sourced from Kaggle (CSV files), [see here to find it.]([https://www
 
 ## Results
 
-Correlation Between Calories and Steps
+#### Correlation Between Calories and Steps
 
 - The chart shows a positive correlation between total steps taken and calories burned.
 
@@ -115,13 +115,13 @@ Correlation Between Calories and Steps
 - The regression line highlights a clear trend, with most data points clustered around it, indicating consistency across users.
 
 
-![Correlation Between Calories and Steps](assets/images/calories%vs%total%steps.PNG)
+![Correlation Between Calories and Steps](assets/images/calories%20vs%20total%20steps.PNG)
 
 
 
 
 
-Active distance trend lines
+#### Active distance trend lines
 
 - A noticeable decline in light active distance and high active distance is observed during weekends.
 
@@ -129,52 +129,52 @@ Active distance trend lines
 - This indicates that users tend to engage in less physical activity as the weekend approaches.
 
 
-![Active distance trend lines](assets/images/light%active%line.PNG)
+![Active distance trend lines](assets/images/light%20active%20line.PNG)
 
 
-![Active distance trend lines](assets/images/moderatly%active%line.PNG)
+![Active distance trend lines](assets/images/moderatly%20active%20line.PNG)
 
 
-![Active distance trend lines](assets/images/very%active%line.PNG)
+![Active distance trend lines](assets/images/very%20active%20line.PNG)
 
 
 
 
 
-Calorie burn trends across the day
+#### Calorie burn trends across the day
 
 - The graph shows that the majority of calorie burn occurs between 7 AM and 7 PM, reflecting typical active hours during the day. This aligns with user engagement in physical activities and daily routines during daylight hours.
 
 
-![Active distance trend lines](assets/images/caolories%over%time.PNG)
+![Active distance trend lines](assets/images/caolories%20over%20time.PNG)
 
 
 
 
 
-Frequency of daily sleep patterns
+#### Frequency of daily sleep patterns
 
 - The frequency of sleep times shows that most users sleep once a day, indicating a regular sleep routine. Instances of sleeping twice a day are less common and sleeping three times a day is extremely rare.
 
 
-![Active distance trend lines](assets/images/frequency%sleep%time.PNG)
+![Active distance trend lines](assets/images/frequency%20sleep%20time.PNG)
 
 
 
 
 
-Total sleep minutes over the month
+#### Total sleep minutes over the month
 
 - The total minutes of sleep over the month reveal that users tend to sleep more on weekends compared to weekdays. This trend suggests that users might use weekends to catch up on rest or enjoy longer sleep durations.
 
 
-![Active distance trend lines](assets/images/mins%sleep%over%the%month.PNG)
+![Active distance trend lines](assets/images/mins%20sleep%20over%20the%20month.PNG)
 
 
 
 ## Disussion
 
-Findings
+#### Findings
 
 - Calorie Burn Over Time (7 AM - 7 PM)
 
@@ -200,7 +200,7 @@ Findings
 
 
 
-Implications
+#### Implications
 
 - Calorie Burn Over Time (7 AM - 7 PM)
 
