@@ -82,23 +82,23 @@ The data is sourced from Kaggle (CSV files), [see here to find it.]([https://www
 
 - daily_activity Dataset
 
--- Removing 3 Columns (TrackerDistance, LoggedActivitiesDistance, SedentaryActiveDistance)
+  - Removing 3 Columns (TrackerDistance, LoggedActivitiesDistance, SedentaryActiveDistance)
 
--- Changing Date Format
+  - Changing Date Format
 
 
 - hourly_data Dataset
 
--- Changing Date Format
+  - Changing Date Format
 
--- Changing StepTotal Column Name
+  - Changing StepTotal Column Name
 
 
 - sleep_day Dataset
 
--- Removing Duplicates
+  - Removing Duplicates
 
--- Changing Date Format
+  - Changing Date Format
 
 
 
@@ -115,7 +115,7 @@ Correlation Between Calories and Steps
 - The regression line highlights a clear trend, with most data points clustered around it, indicating consistency across users.
 
 
-![Correlation Between Calories and Steps](assets/images/calories_vs_total_steps.PNG)
+![Correlation Between Calories and Steps](assets/images/calories%vs%total%steps.PNG)
 
 
 
@@ -129,13 +129,13 @@ Active distance trend lines
 - This indicates that users tend to engage in less physical activity as the weekend approaches.
 
 
-![Active distance trend lines](assets/images/light_active_line.PNG)
+![Active distance trend lines](assets/images/light%active%line.PNG)
 
 
-![Active distance trend lines](assets/images/moderatly_active_line.PNG)
+![Active distance trend lines](assets/images/moderatly%active%line.PNG)
 
 
-![Active distance trend lines](assets/images/very_active_line.PNG)
+![Active distance trend lines](assets/images/very%active%line.PNG)
 
 
 
@@ -146,7 +146,7 @@ Calorie burn trends across the day
 - The graph shows that the majority of calorie burn occurs between 7 AM and 7 PM, reflecting typical active hours during the day. This aligns with user engagement in physical activities and daily routines during daylight hours.
 
 
-![Active distance trend lines](assets/images/caolories_over_time.PNG)
+![Active distance trend lines](assets/images/caolories%over%time.PNG)
 
 
 
@@ -157,7 +157,7 @@ Frequency of daily sleep patterns
 - The frequency of sleep times shows that most users sleep once a day, indicating a regular sleep routine. Instances of sleeping twice a day are less common and sleeping three times a day is extremely rare.
 
 
-![Active distance trend lines](assets/images/frequency_sleep_time.PNG)
+![Active distance trend lines](assets/images/frequency%sleep%time.PNG)
 
 
 
@@ -168,7 +168,7 @@ Total sleep minutes over the month
 - The total minutes of sleep over the month reveal that users tend to sleep more on weekends compared to weekdays. This trend suggests that users might use weekends to catch up on rest or enjoy longer sleep durations.
 
 
-![Active distance trend lines](assets/images/mins_sleep_over_the_month.PNG)
+![Active distance trend lines](assets/images/mins%sleep%over%the%month.PNG)
 
 
 
@@ -178,23 +178,23 @@ Findings
 
 - Calorie Burn Over Time (7 AM - 7 PM)
 
--- Most calories are burned during the daytime, between 7 AM and 7 PM, reflecting higher activity levels during this period.
+  - Most calories are burned during the daytime, between 7 AM and 7 PM, reflecting higher activity levels during this period.
 
 - Frequency of Sleep Times
 
--- Most users sleep once per day, indicating a regular sleep routine.
+  - Most users sleep once per day, indicating a regular sleep routine.
 
--- Sleeping twice a day is less common, and three times a day is rare.
+  - Sleeping twice a day is less common, and three times a day is rare.
 
 - Total Sleep Minutes Over the Month
 
--- Users sleep more on weekends compared to weekdays, showing a preference for longer rest periods during weekends.
+  - Users sleep more on weekends compared to weekdays, showing a preference for longer rest periods during weekends.
 
 - Activity Preferences
 
--- Users engage in light active distances more frequently, with high active distances being less common.
+  - Users engage in light active distances more frequently, with high active distances being less common.
 
--- A noticeable decline in activity levels occurs during weekends.
+  - A noticeable decline in activity levels occurs during weekends.
 
 
 
@@ -204,25 +204,25 @@ Implications
 
 - Calorie Burn Over Time (7 AM - 7 PM)
 
--- Bellabeat could introduce personalized activity reminders during non-peak hours (early morning or late evening) to encourage more balanced calorie burn throughout the day.
+  - Bellabeat could introduce personalized activity reminders during non-peak hours (early morning or late evening) to encourage more balanced calorie burn throughout the day.
 
--- Highlight these trends in the app to help users plan their active hours effectively.
+  - Highlight these trends in the app to help users plan their active hours effectively.
 
 - Frequency of Sleep Times
 
--- Users with irregular sleep schedules could benefit from personalized sleep coaching or reminders for a consistent sleep routine.
+  - Users with irregular sleep schedules could benefit from personalized sleep coaching or reminders for a consistent sleep routine.
 
--- Insights about rare multiple sleep instances could inspire educational content about healthy sleep habits.
+  - Insights about rare multiple sleep instances could inspire educational content about healthy sleep habits.
 
 - Total Sleep Minutes Over the Month
 
--- Encourage users to maintain consistent sleep durations throughout the week by promoting better weekday sleep hygiene.
+  - Encourage users to maintain consistent sleep durations throughout the week by promoting better weekday sleep hygiene.
 
--- Develop weekend sleep tips or challenges to maximize rest benefits while avoiding oversleeping.
+  - Develop weekend sleep tips or challenges to maximize rest benefits while avoiding oversleeping.
 
 - Activity Preferences
 
--- Promote features like weekend challenges or light activity recommendations to keep users engaged during weekends.
+  - Promote features like weekend challenges or light activity recommendations to keep users engaged during weekends.
 
 
 
